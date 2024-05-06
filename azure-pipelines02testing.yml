@@ -19,7 +19,7 @@ variables:
   imagePullSecret: 'aksdevopsacrkub117-auth'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'aks-agentpool-22519103-vmss000002'
 
 
 stages:
